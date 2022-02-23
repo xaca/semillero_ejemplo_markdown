@@ -8,3 +8,4 @@
 * Juan Perez
   * Estudiante
 
+![Imagen astronauta](imagenes/astronauta.jpeg)
